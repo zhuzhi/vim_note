@@ -1,7 +1,7 @@
  # Lesson 1 SUMMARY
 
 
-1. The cursor is moved using either the arrow keys or the hjkl keys.
+1. The cursor is moved using either the arrow keys or the **hjkl** keys.
 
          h (left)       j (down)       k (up)       l (right)
 
@@ -20,5 +20,5 @@
 NOTE: Pressing **< ESC >** will place you in Normal mode or will cancel an unwanted and partially completed command.
 
 |h|j|k|l|
-|--|--|--|--|
-|(left)|(down)|(up)|(right) |
+| :--: | :--: |--|--|
+|(left)|(down)|(up)|(right)|
