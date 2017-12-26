@@ -8,8 +8,8 @@
 2. To start Vim from the shell prompt type:  vim FILENAME <ENTER>
 
 3. To exit Vim
-         - type: < ESC > :q! < ENTER > to trash all changes.   
-         - type: < ESC > :wq < ENTER > to save the changes.
+         - type: **< ESC > :q! < ENTER >** to trash all changes.   
+         - type: **< ESC > :wq < ENTER >** to save the changes.
 
 4. To delete the character at the cursor type:  x
 
