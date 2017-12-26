@@ -17,5 +17,4 @@
          - **i**   type inserted text   **< ESC >**         insert before the cursor
          - **A**   type appended text   **< ESC >**         append after the line
 
-NOTE: Pressing <ESC> will place you in Normal mode or will cancel
-      an unwanted and partially completed command.
+NOTE: Pressing **< ESC >** will place you in Normal mode or will cancel an unwanted and partially completed command.
