@@ -5,7 +5,7 @@
          |h|j|k|l|
          | :---: | :---: |--|--|
          |(left)|(down)|(up)|(right)|
-2. To start Vim from the shell prompt type:  vim FILENAME <ENTER>
+2. To start Vim from the shell prompt type:  **vim FILENAME < ENTER >**
 
 3. To exit Vim
          - type: **< ESC > :q! < ENTER >** to trash all changes.   
