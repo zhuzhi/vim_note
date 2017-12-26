@@ -2,9 +2,11 @@
 
 
 1. The cursor is moved using either the arrow keys or the **hjkl** keys.
-|h|j|k|l|
-| :---: | :---: | :--: |:--:|
-|(left)|(down)|(up)|(right)|
+ - h left
+ - j down
+ - k up
+ - l right
+
 2. To start Vim from the shell prompt type:  **vim FILENAME < ENTER >**
 
 3. To exit Vim
