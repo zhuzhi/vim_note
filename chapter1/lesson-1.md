@@ -11,7 +11,7 @@
          - type: **< ESC > :q! < ENTER >** to trash all changes.   
          - type: **< ESC > :wq < ENTER >** to save the changes.
 
-4. To delete the character at the cursor type:  x
+4. To delete the character at the cursor type:  **x**
 
 5. To insert or append text type:
          i   type inserted text   <ESC>         insert before the cursor
