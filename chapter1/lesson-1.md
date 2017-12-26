@@ -14,8 +14,8 @@
 4. To delete the character at the cursor type:  **x**
 
 5. To insert or append text type:
-         - **i**   type inserted text   **< ESC >**         insert before the cursor
-         - **A**   type appended text   **< ESC >**         append after the line
+ - **i**   type inserted text   **< ESC >**         insert before the cursor
+ - **A**   type appended text   **< ESC >**         append after the line
 
 NOTE: Pressing **< ESC >** will place you in Normal mode or will cancel an unwanted and partially completed command.
 
