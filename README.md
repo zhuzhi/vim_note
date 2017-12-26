@@ -1,3 +1,4 @@
-# My Awesome Book
+# vim学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+与其浪费时间,不如学习vim
+
