@@ -2,9 +2,9 @@
 
 
 1. The cursor is moved using either the arrow keys or the **hjkl** keys.
-
-         h (left)       j (down)       k (up)       l (right)
-
+         |h|j|k|l|
+         | :---: | :---: |--|--|
+         |(left)|(down)|(up)|(right)|
 2. To start Vim from the shell prompt type:  vim FILENAME <ENTER>
 
 3. To exit Vim
@@ -19,9 +19,7 @@
 
 NOTE: Pressing **< ESC >** will place you in Normal mode or will cancel an unwanted and partially completed command.
 
-|h|j|k|l|
-| :---: | :---: |--|--|
-|(left)|(down)|(up)|(right)|
+
 
 
 
