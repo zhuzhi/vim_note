@@ -7,5 +7,3 @@
 4. If you have these steps memorized and are confident, execute steps 1 through 3 to exit and re-enter the editor.
 NOTE:  :**q! < ENTER >**  discards any changes you made. In a few lessons you will learn how to save the changes to a file.
 5. Move the cursor down to Lesson 1.3.
-
-
