@@ -11,7 +11,6 @@ NOTE:  You may see the cursor position in the lower right corner of the screen T
 2. Press  **G**  to move you to the bottom of the file.
 Type  **gg**  to move you to the start of the file.
 
-3. Type the number of the line you were on and then  G .  This will
-return you to the line you were on when you first pressed CTRL-G.
+3. Type the number of the line you were on and then  **G** .  This will return you to the line you were on when you first pressed **CTRL-G**.
 
 4. If you feel confident to do this, execute steps 1 through 3.
