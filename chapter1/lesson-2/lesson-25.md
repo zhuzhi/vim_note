@@ -3,7 +3,7 @@
 ** Typing a number with an operator repeats it that many times. **
 
 In the combination of the delete operator and a motion mentioned above you insert a count before the motion to delete more:
-{% center %} d number motion {% endcenter %}
+{% center %} **d number motion** {% endcenter %}
          
 1. Move the cursor to the first UPPER CASE word in the line marked --->.
 
