@@ -11,4 +11,5 @@
     * [Lesson 1.6](chapter1/lesson-1/lesson-16.md)
   * [Lesson 2](chapter1/lesson-2.md)
     * [Lesson 2.1](chapter1/lesson-2/lesson-21.md)
+    * [Lesson 2.2](chapter1/lesson-2/lesson-22.md)
 
