@@ -1,16 +1,16 @@
-# Lesson 4.2: THE SEARCH COMMAND
-** Type  /  followed by a phrase to search for the phrase. **
-  
-1. In Normal mode type the  /  character.  Notice that it and the cursor appear at the bottom of the screen as with the  :  command.
+# Lesson 4.3: MATCHING PARENTHESES SEARCH
 
-2. Now type 'errroor' <ENTER>.  This is the word you want to search for.
+** Type  %  to find a matching ),], or } . **
 
-3. To search for the same phrase again, simply type  n . To search for the same phrase in the opposite direction, type  N .
+1. Place the cursor on any (, [, or { in the line below marked --->.
 
-4. To search for a phrase in the backward direction, use  ?  instead of  / .
+2. Now type the  %  character.
 
-5. To go back to where you came from press  CTRL-O  (Keep Ctrl down while pressing the letter o).  Repeat to go back further.  CTRL-I goes forward.
---->  "errroor" is not the way to spell error;  errroor is an error.
+3. The cursor will move to the matching parenthesis or bracket.
 
-NOTE: When the search reaches the end of the file it will continue at the
-      start, unless the 'wrapscan' option has been reset.
+4. Type  %  to move the cursor to the other matching bracket.
+
+5. Move the cursor to another (,),[,],{ or } and see what  %  does.
+---> This ( is a test line with ('s, ['s ] and {'s } in it. ))
+
+NOTE: This is very useful in debugging a program with unmatched parentheses!
