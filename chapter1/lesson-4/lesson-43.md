@@ -4,11 +4,11 @@
 
 1. Place the cursor on any (, [, or { in the line below marked --->.
 
-2. Now type the  %  character.
+2. Now type the  **%**  character.
 
 3. The cursor will move to the matching parenthesis or bracket.
 
-4. Type  %  to move the cursor to the other matching bracket.
+4. Type  **%**  to move the cursor to the other matching bracket.
 
 5. Move the cursor to another (,),[,],{ or } and see what  %  does.
 ---> This ( is a test line with ('s, ['s ] and {'s } in it. ))

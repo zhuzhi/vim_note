@@ -26,4 +26,5 @@
     * [Lesson 4.1](chapter1/lesson-4/lesson-41.md)
     * [Lesson 4.2](chapter1/lesson-4/lesson-42.md)
     * [Lesson 4.3](chapter1/lesson-4/lesson-43.md)
+    * [Lesson 4.4](chapter1/lesson-4/lesson-44.md)
 
