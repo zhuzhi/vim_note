@@ -6,7 +6,7 @@
 
 2. To fix the errors, move the cursor until it is on top of the character to be deleted.
 
-3. Press the  x  key to delete the unwanted character.
+3. Press the  **x**  key to delete the unwanted character.
 
 4. Repeat steps 2 through 4 until the sentence is correct.
 ---> The ccow jumpedd ovverr thhe mooon.
