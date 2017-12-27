@@ -5,7 +5,7 @@
 2. Type: **:q! < ENTER >**. This exits the editor, DISCARDING any changes you have made.
 3. Get back here by executing the command that got you into this tutor. That might be:  **vimtutor < ENTER >**
 4. If you have these steps memorized and are confident, execute steps 1 through 3 to exit and re-enter the editor.
-NOTE:  :q! &lt;ENTER&gt;  discards any changes you made.  In a few lessons you will learn how to save the changes to a file.
+NOTE:  :**q! < ENTER >**  discards any changes you made. In a few lessons you will learn how to save the changes to a file.
 5. Move the cursor down to Lesson 1.3.
 
 
