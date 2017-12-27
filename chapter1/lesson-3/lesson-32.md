@@ -6,7 +6,7 @@
 
 2. Move the cursor so that it is on top of the first error.
 
-3. Type   r   and then the character which should be there.
+3. Type   **r**   and then the character which should be there.
 
 4. Repeat steps 2 and 3 until the first line is equal to the second one.
 --->  Whan this lime was tuoed in, someone presswd some wrojg keys!
