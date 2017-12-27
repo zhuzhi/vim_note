@@ -7,4 +7,5 @@
     * [Lesson 1.2](chapter1/lesson-1/lesson-12.md)
     * [Lesson 1.3](chapter1/lesson-1/lesson-13.md)
     * [Lesson 1.4](chapter1/lesson-1/lesson-14.md)
+    * [Lesson 1.5](chapter1/lesson-1/lesson-16.md)
 
