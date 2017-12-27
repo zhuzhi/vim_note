@@ -17,4 +17,6 @@
     * [Lesson 2.5](chapter1/lesson-2/lesson-25.md)
     * [Lesson 2.6](chapter1/lesson-2/lesson-26.md)
     * [Lesson 2.7](chapter1/lesson-2/lesson-27.md)
+  * [Lesson 3](chapter1/lesson-3.md)
+    * [Lesson 3.1](chapter1/lesson-3/lesson-31.md)
 
