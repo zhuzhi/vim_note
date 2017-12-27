@@ -2,7 +2,7 @@
 
 ** Type  d$  to delete to the end of the line. **
 
-1. Press  <ESC>  to make sure you are in Normal mode.
+1. Press  **< ESC >**  to make sure you are in Normal mode.
 
 2. Move the cursor to the line below marked --->.
 
