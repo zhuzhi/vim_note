@@ -3,7 +3,7 @@
 ** The change operator is used with the same motions as delete. **
 
 1. The change operator works in the same way as delete.  The format is:
-{% center %}**c    [number]   motion**{% endcenter %}
+**c    [number]   motion**
 
 2. The motions are the same, such as   **w** (word) and  **$** (end of line).
 

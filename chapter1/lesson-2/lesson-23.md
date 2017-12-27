@@ -1,6 +1,6 @@
 # Lesson 2.3: ON OPERATORS AND MOTIONS
 Many commands that change text are made from an operator and a motion. The format for a delete command with the  d  delete operator is as follows:
-{% center %}d motion{% endcenter %}
+**d motion**
         
 Where:
 - **d**      - is the delete operator.

@@ -7,6 +7,6 @@
 3. The change operator allows you to change from the cursor to where the motion takes you.  eg. Type  ce  to change from the cursor to the end of the word,  **c$**  to change to the end of a line.
 
 4. The format for change is:
-{% center %}**c   [number]   motion**{% endcenter %}
+**c   [number]   motion**
 
 Now go on to the next lesson.
