@@ -1,14 +1,14 @@
 # Lesson 4 SUMMARY
 
-1. CTRL-G  displays your location in the file and the file status.
- - G  moves to the end of the file.
- - number  G  moves to that line number.
- - gg  moves to the first line.
+1. - **CTRL-G**  displays your location in the file and the file status.
+ - **G**  moves to the end of the file.
+ - **number  G**  moves to that line number.
+ - **gg**  moves to the first line.
             
 2. - Typing  /  followed by a phrase searches FORWARD for the phrase.
  - Typing  ?  followed by a phrase searches BACKWARD for the phrase.
-After a search type  n  to find the next occurrence in the same direction or  N  to search in the opposite direction.
- - CTRL-O takes you back to older positions, CTRL-I to newer positions.
+After a search type  **n**  to find the next occurrence in the same direction or  **N**  to search in the opposite direction.
+ - **CTRL-O** takes you back to older positions, **CTRL-I** to newer positions.
  
 3. Typing  %  while the cursor is on a (,),[,],{, or } goes to its match.
 
