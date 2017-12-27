@@ -9,7 +9,6 @@
 3. Press  i  and type in the necessary additions.
 
 4. As each error is fixed press <ESC> to return to Normal mode. Repeat steps 2 through 4 to correct the sentence.
-
 ---> There is text misng this .
 ---> There is some text missing from this line.
 
