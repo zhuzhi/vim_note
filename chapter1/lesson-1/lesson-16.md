@@ -7,7 +7,7 @@ It does not matter on what character the cursor is in that line.
 
 2. Press  A  and type in the necessary additions.
 
-3. As the text has been appended press <ESC> to return to Normal mode.
+3. As the text has been appended press **< ESC >** to return to Normal mode.
 
 4. Move the cursor to the second line marked ---> and repeat steps 2 and 3 to correct this sentence.
 ---> There is some text missing from th
