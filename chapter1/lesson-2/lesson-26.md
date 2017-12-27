@@ -6,7 +6,7 @@ Due to the frequency of whole line deletion, the designers of Vi decided it woul
 
 1. Move the cursor to the second line in the phrase below.
 
-2. Type  dd  to delete the line.
+2. Type  **dd**  to delete the line.
 
 3. Now move to the fourth line.
 
