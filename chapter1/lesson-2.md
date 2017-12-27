@@ -11,13 +11,13 @@
 5. The format for a change command is:
 {% center %}**operator   [number]   motion**{% endcenter %}
 where:
-- operator - is what to do, such as  d  for 
-- [number] - is an optional count to repeat the motion
-- motion   - moves over the text to operate on, such as  w (word), $ (to the end of line), etc.
+- **operator** - is what to do, such as  d  for 
+- **[number]** - is an optional count to repeat the motion
+- **motion**   - moves over the text to operate on, such as  **w** (word), **$** (to the end of line), etc.
 
-6. To move to the start of the line use a zero:  0
+6. To move to the start of the line use a zero:  **0**
 
-7. - To undo previous actions, type:           u  (lowercase u)
-   - To undo all the changes on a line, type:  U  (capital U)
-   - To undo the undo's, type:                 CTRL-R
+7. - To undo previous actions, type:           **u**  (lowercase u)
+   - To undo all the changes on a line, type:  **U**  (capital U)
+   - To undo the undo's, type:                 **CTRL-R**
 
