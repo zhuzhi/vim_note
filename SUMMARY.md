@@ -9,4 +9,6 @@
     * [Lesson 1.4](chapter1/lesson-1/lesson-14.md)
     * [Lesson 1.5](chapter1/lesson-1/lesson-15.md)
     * [Lesson 1.6](chapter1/lesson-1/lesson-16.md)
+  * [Lesson 2](chapter1/lesson-2.md)
+    * [Lesson 2.1](chapter1/lesson-2/lesson-21.md)
 
