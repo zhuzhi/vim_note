@@ -22,4 +22,6 @@
     * [Lesson 3.2](chapter1/lesson-3/lesson-32.md)
     * [Lesson 3.3](chapter1/lesson-3/lesson-33.md)
     * [Lesson 3.4](chapter1/lesson-3/lesson-34.md)
+  * [Lesson 4](chapter1/lesson-4.md)
+    * Lesson 4.1
 
