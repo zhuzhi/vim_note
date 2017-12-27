@@ -1,18 +1,17 @@
-# Lesson 1.5: TEXT EDITING - APPENDING
+# Lesson 1.6: EDITING A FILE
 
-** Press  A  to append text. **
+** Use  :wq  to save a file and exit. **
 
-1. Move the cursor to the first line below marked --->.
-It does not matter on what character the cursor is in that line.
+!! NOTE: Before executing any of the steps below, read this entire lesson!!
 
-2. Press  A  and type in the necessary additions.
+1. Exit this tutor as you did in lesson 1.2:  :q! Or, if you have access to another terminal, do the following there.
 
-3. As the text has been appended press **< ESC >** to return to Normal mode.
+2. At the shell prompt type this command:  vim tutor <ENTER> 'vim' is the command to start the Vim editor, 'tutor' is the name of the file you wish to edit.  Use a file that may be changed.
 
-4. Move the cursor to the second line marked ---> and repeat steps 2 and 3 to correct this sentence.
----> There is some text missing from th
-     There is some text missing from this line.
----> There is also some text miss
-     There is also some text missing here.
-     
-5. When you are comfortable appending text move to lesson 1.6.
+3. Insert and delete text as you learned in the previous lessons.
+
+4. Save the file with changes and exit Vim with:  :wq  <ENTER>
+
+5. If you have quit vimtutor in step 1 restart the vimtutor and move down to the following summary.
+
+6. After reading the above steps and understanding them: do it.
