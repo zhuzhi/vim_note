@@ -9,5 +9,5 @@
 3. Now type some text and press **< ESC >** to exit Insert mode.
 ---> After typing  o  the cursor is placed on the open line in Insert mode.
 
-4. To open up a line ABOVE the cursor, simply type a capital  O , rather than a lowercase  o.  Try this on the line below.
+4. To open up a line ABOVE the cursor, simply type a capital  **O** , rather than a lowercase  o.  Try this on the line below.
 ---> Open up a line above this by typing O while the cursor is on this line.
