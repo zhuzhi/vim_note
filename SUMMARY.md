@@ -30,4 +30,5 @@
   * [Lesson 5](chapter1/lesson-5.md)
     * [Lesson 5.1](chapter1/lesson-5/lesson-51.md)
     * [Lesson 5.2](chapter1/lesson-5/lesson-52.md)
+    * [Lesson 5.3](chapter1/lesson-5/lesson-53.md)
 
