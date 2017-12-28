@@ -29,4 +29,5 @@
     * [Lesson 4.4](chapter1/lesson-4/lesson-44.md)
   * [Lesson 5](chapter1/lesson-5.md)
     * [Lesson 5.1](chapter1/lesson-5/lesson-51.md)
+    * [Lesson 5.2](chapter1/lesson-5/lesson-52.md)
 
