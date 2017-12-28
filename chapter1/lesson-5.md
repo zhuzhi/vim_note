@@ -2,8 +2,8 @@
 
 1.  **:!command**  executes an external command.
 Some useful examples are:
- - :!dir(MS-DOS)            :!ls(Unix) -  shows a directory listing.
- - :!del FILENAME(MS-DOS)   :!rm FILENAME(Unix) -  removes file FILENAME.
+ - :**!dir**(MS-DOS)            **:!ls**(Unix) -  shows a directory listing.
+ - :**!del FILENAME**(MS-DOS)   **:!rm FILENAME**(Unix) -  removes file FILENAME.
 
 2.  **:w FILENAME**  writes the current Vim file to disk with name FILENAME.
 
