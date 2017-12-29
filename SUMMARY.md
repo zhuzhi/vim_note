@@ -38,4 +38,6 @@
     * [Lesson 6.3](chapter1/lesson-6/lesson-63.md)
     * [Lesson 6.4](chapter1/lesson-6/lesson-64.md)
     * [Lesson 6.5](chapter1/lesson-6/lesson-65.md)
+  * [Lesson 7](chapter1/lesson-7.md)
+    * [Lesson 7.1](chapter1/lesson-7/lesson-71.md)
 
