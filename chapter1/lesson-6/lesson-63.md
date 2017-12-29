@@ -4,9 +4,9 @@
 
 1. Move the cursor to the first line below marked --->.  Move the cursor to the beginning of the first  xxx .
 
-2. Now press  R  and type the number below it in the second line, so that it replaces the xxx .
+2. Now press  **R**  and type the number below it in the second line, so that it replaces the xxx .
 
-3. Press <ESC> to leave Replace mode.  Notice that the rest of the line remains unmodified.
+3. Press **< ESC >** to leave Replace mode.  Notice that the rest of the line remains unmodified.
 
 4. Repeat the steps to replace the remaining xxx.
 ---> Adding 123 to xxx gives you xxx.
