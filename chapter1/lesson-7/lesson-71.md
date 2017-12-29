@@ -12,7 +12,7 @@ Read the text in the help window to find out how the help works.
  - Type    **:q < ENTER >**    to close the help window.
 
 You can find help on just about any subject, by giving an argument to the ":help" command.  Try these (don't forget pressing <ENTER>):
- - :help w
- - :help c_CTRL-D
- - :help insert-index
- - :help user-manual
+ - :**help w**
+ - :**help c_CTRL-D**
+ - :**help insert-index**
+ - :**help user-manual**
