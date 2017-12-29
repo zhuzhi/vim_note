@@ -37,4 +37,5 @@
     * [Lesson 6.2](chapter1/lesson-6/lesson-62.md)
     * [Lesson 6.3](chapter1/lesson-6/lesson-63.md)
     * [Lesson 6.4](chapter1/lesson-6/lesson-64.md)
+    * [Lesson 6.5](chapter1/lesson-6/lesson-65.md)
 
