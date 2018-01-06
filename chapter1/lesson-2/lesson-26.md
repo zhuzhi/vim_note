@@ -10,7 +10,7 @@ Due to the frequency of whole line deletion, the designers of Vi decided it woul
 
 3. Now move to the fourth line.
 
-4. Type   2dd   to delete two lines.
+4. Type   **2dd**   to delete two lines.
 
 --->  1)  Roses are red,
 --->  2)  Mud is fun,
