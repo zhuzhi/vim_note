@@ -9,7 +9,7 @@
 4. To repeat a motion prepend it with a number:   **2w**
 
 5. The format for a change command is:
-{% center %}**operator   [number]   motion**{% endcenter %}
+**operator   [number]   motion**
 where:
 - **operator** - is what to do, such as  d  for 
 - **[number]** - is an optional count to repeat the motion
